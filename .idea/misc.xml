@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-01-hello/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-02-properties/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-03-actuator/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-04-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-04-admin/admin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-04-admin/admin-client/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-05-logback/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-06-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-07-exception-handler/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-08-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-09-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-10-mail/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-11-nettysocketio/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

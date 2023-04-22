@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo-04-admin" />
+        <module name="demo-06-aop" />
+        <module name="admin-client" />
+        <module name="demo-09-redis" />
+        <module name="demo-03-actuator" />
+        <module name="demo-05-logback" />
+        <module name="demo-01-hello" />
+        <module name="spring-boot-demo" />
+        <module name="demo-11-nettysocketio" />
+        <module name="demo-02-properties" />
+        <module name="demo-08-thymeleaf" />
+        <module name="demo-09-jdbc" />
+        <module name="demo-10-mail" />
+        <module name="admin-server" />
+        <module name="demo-07-exception-handler" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo-09-jdbc" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="admin-client" options="-parameters" />
+      <module name="admin-server" options="-parameters" />
+      <module name="demo-01-hello" options="-parameters" />
+      <module name="demo-02-properties" options="-parameters" />
+      <module name="demo-03-actuator" options="-parameters" />
+      <module name="demo-04-admin" options="-parameters" />
+      <module name="demo-05-logback" options="-parameters" />
+      <module name="demo-06-aop" options="-parameters" />
+      <module name="demo-07-exception-handler" options="-parameters" />
+      <module name="demo-08-thymeleaf" options="-parameters" />
+      <module name="demo-09-jdbc" options="-parameters" />
+      <module name="demo-09-redis" options="-parameters" />
+      <module name="demo-10-mail" options="-parameters" />
+      <module name="demo-11-nettysocketio" options="-parameters" />
+    </option>
+  </component>
+</project>

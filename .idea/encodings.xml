@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/demo-01-hello/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-02-properties/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-03-actuator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-04-admin/admin-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-04-admin/admin-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-05-logback/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-06-aop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-07-exception-handler/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-08-thymeleaf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-09-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-10-mail/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-11-nettysocketio/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
