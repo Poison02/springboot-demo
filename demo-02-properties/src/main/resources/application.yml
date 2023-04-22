@@ -1,0 +1,8 @@
+# use spring.profiles.active: name
+spring:
+  profiles:
+    active: prod
+server:
+  port: 8080
+  servlet:
+    context-path: /demo02
