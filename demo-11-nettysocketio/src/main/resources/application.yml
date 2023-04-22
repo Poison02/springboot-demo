@@ -1,0 +1,9 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /demo11
+
+ws:
+  server:
+    port: 8081
+    host: 127.0.0.1

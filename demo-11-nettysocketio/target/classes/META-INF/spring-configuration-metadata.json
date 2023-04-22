@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "ws.server",
+      "type": "cdu.zch.demo11nettysocketio.config.WsConfig",
+      "sourceType": "cdu.zch.demo11nettysocketio.config.WsConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "ws.server.host",
+      "type": "java.lang.String",
+      "sourceType": "cdu.zch.demo11nettysocketio.config.WsConfig"
+    },
+    {
+      "name": "ws.server.port",
+      "type": "java.lang.Integer",
+      "sourceType": "cdu.zch.demo11nettysocketio.config.WsConfig"
+    }
+  ],
+  "hints": []
+}
