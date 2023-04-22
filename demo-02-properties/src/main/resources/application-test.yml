@@ -1,0 +1,8 @@
+application:
+  name: test环境 @artifactId@
+  version: test环境 @version@
+developer:
+  name: test环境 poison02
+  website: test环境 https://zchch.top
+  qq: test环境 2069820192
+  phone-number: test环境 1xxxxxxxxxx
