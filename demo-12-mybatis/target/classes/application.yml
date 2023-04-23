@@ -1,0 +1,34 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /demo12
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/mybatis?useSSL=false&autoReconnect=true&characterEncoding=utf8&serverTimeZone=GMT%2B8
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: 248613
+
+mybatis:
+  mapper-locations: classpath:mybatis/mapper/*.xml
+  type-aliases-package: cdu.zch.demo12mybatis.entity
+  configuration:
+    cache-enabled: true
+    use-generated-keys: true
+    default-executor-type: REUSE
+    use-actual-param-name: true
+
+knife4j:
+  enable: true
+  setting:
+    # default lang
+    language: en-US
+    # footer
+    enableFooter: false
+    enableFooterCustom: true
+    footerCustomContent: Poison02-Java-Study
+    # models
+    enableSwaggerModels: true
+    swaggerModelName: My Models
+
