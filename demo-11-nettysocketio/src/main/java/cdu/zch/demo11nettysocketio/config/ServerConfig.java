@@ -9,6 +9,7 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * @author Zch
+ * 这里的EnableConfigurationProperties是为了ConfigurationProperties生效
  **/
 @Configuration
 @EnableConfigurationProperties({WsConfig.class})
