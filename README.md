@@ -15,3 +15,6 @@
 - [springboot-redis](/demo-09-redis/)  springboot整合redis
 - [springboot-mail](/demo-10-mail/) springboot整合mail实现发邮件（目前有问题，待完善）
 - [springboot-netty-socketio](/demo-11-nettysocketio/)  springboot整合netty-socketio
+- [springboot-mybatis](/demo-12-mybatis/)  springboot整合mybatis
+- [springboot-mybatis-plus](/demo-12-mybatis/)  springboot整合mybatis-plus
+- [springboot-easyexcel](/demo-14-easyexcel/)  springboot整合easyexcel

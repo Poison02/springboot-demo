@@ -18,6 +18,9 @@
         <option value="$PROJECT_DIR$/demo-09-redis/pom.xml" />
         <option value="$PROJECT_DIR$/demo-10-mail/pom.xml" />
         <option value="$PROJECT_DIR$/demo-11-nettysocketio/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-12-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-13-mybatisplus/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-14-easyexcel/pom.xml" />
       </list>
     </option>
   </component>
