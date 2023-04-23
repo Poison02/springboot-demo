@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca40f7aa-5599-4690-b687-0cd4b336d7c9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/demo-11-nettysocketio/src/main/java/cdu/zch/demo11nettysocketio/config/ServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-11-nettysocketio/src/main/java/cdu/zch/demo11nettysocketio/config/ServerConfig.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../CodeSoftware/Maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\CodeSoftware\Maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2Ok8PBnYKHSM1A31LctGircAjBl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/笔记/spring-boot-demo/spring-boot-demo",
+    "settings.editor.selected.configurable": "spring.boot",
+    "spring.configuration.checksum": "6800280e2295e070b2e5cfc48025409b",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-11-nettysocketio\src\main\resources" />
+      <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-10-mail\src\test\java\cdu\zch\demo10mail" />
+      <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-10-mail\src\main\resources\static" />
+      <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-10-mail\src\main\resources" />
+      <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-09-jdbc\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Demo11NettysocketioApplication">
+    <configuration name="Demo10MailApplicationTests.send" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-10-mail" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cdu.zch.demo10mail.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cdu.zch.demo10mail" />
+      <option name="MAIN_CLASS_NAME" value="cdu.zch.demo10mail.Demo10MailApplicationTests" />
+      <option name="METHOD_NAME" value="send" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo10MailApplicationTests.sendHtmlMail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-10-mail" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cdu.zch.demo10mail.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cdu.zch.demo10mail" />
+      <option name="MAIN_CLASS_NAME" value="cdu.zch.demo10mail.Demo10MailApplicationTests" />
+      <option name="METHOD_NAME" value="sendHtmlMail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo10MailApplicationTests.sendSimpleMail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-10-mail" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cdu.zch.demo10mail.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cdu.zch.demo10mail" />
+      <option name="MAIN_CLASS_NAME" value="cdu.zch.demo10mail.Demo10MailApplicationTests" />
+      <option name="METHOD_NAME" value="sendSimpleMail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo10MailApplicationTests.testGeneratePassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-10-mail" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cdu.zch.demo10mail.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cdu.zch.demo10mail" />
+      <option name="MAIN_CLASS_NAME" value="cdu.zch.demo10mail.Demo10MailApplicationTests" />
+      <option name="METHOD_NAME" value="testGeneratePassword" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MailServiceTest.sendSimpleMail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-10-mail" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cdu.zch.demo10mail.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cdu.zch.demo10mail.service" />
+      <option name="MAIN_CLASS_NAME" value="cdu.zch.demo10mail.service.MailServiceTest" />
+      <option name="METHOD_NAME" value="sendSimpleMail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="admin-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cdu.zch.adminclient.AdminClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="admin-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cdu.zch.adminserver.AdminServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo01HelloApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="demo-01-hello" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cdu.zch.demo01hello.Demo01HelloApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo02PropertiesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-02-properties" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cdu.zch.demo02properties.Demo02PropertiesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo03ActuatorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-03-actuator" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cdu.zch.demo03actuator.Demo03ActuatorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo04AdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-04-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cdu.zch.demo04admin.Demo04AdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo05LogbackApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-05-logback" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cdu.zch.demo05logback.Demo05LogbackApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo06AopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-06-aop" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cdu.zch.demo06aop.Demo06AopApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo07ExceptionHandlerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-07-exception-handler" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cdu.zch.exceptionhandler.Demo07ExceptionHandlerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo08ThymeleafApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-08-thymeleaf" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cdu.zch.demo08thymeleaf.Demo08ThymeleafApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo09JdbcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-09-jdbc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cdu.zch.demo09jdbc.Demo09JdbcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo09RedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-09-redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cdu.zch.demo09redis.Demo09RedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo10MailApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-10-mail" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cdu.zch.demo10mail.Demo10MailApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo11NettysocketioApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-11-nettysocketio" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cdu.zch.demo11nettysocketio.Demo11NettysocketioApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Demo10MailApplicationTests.sendSimpleMail" />
+        <item itemvalue="JUnit.Demo10MailApplicationTests.testGeneratePassword" />
+        <item itemvalue="JUnit.Demo10MailApplicationTests.send" />
+        <item itemvalue="JUnit.Demo10MailApplicationTests.sendHtmlMail" />
+        <item itemvalue="JUnit.MailServiceTest.sendSimpleMail" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca40f7aa-5599-4690-b687-0cd4b336d7c9" name="Changes" comment="" />
+      <created>1682093194361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682093194361</updated>
+      <workItem from="1682093195624" duration="3554000" />
+      <workItem from="1682129528770" duration="24702000" />
+      <workItem from="1682217030627" duration="2210000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
