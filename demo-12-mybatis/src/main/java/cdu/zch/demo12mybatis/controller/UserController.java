@@ -4,7 +4,6 @@ import cdu.zch.demo12mybatis.entity.User;
 import cdu.zch.demo12mybatis.entity.query.UserQueryBean;
 import cdu.zch.demo12mybatis.entity.response.ResponseResult;
 import cdu.zch.demo12mybatis.service.UserService;
-import io.swagger.annotations.ApiOperation;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
@@ -25,7 +24,6 @@ public class UserController {
      * @param user user param
      * @return user
      */
-    @ApiOperation("Add/Edit User")
     @PostMapping("/add")
     public ResponseResult<User> add(User user) {
         if (user.getId()==null) {
@@ -43,7 +41,6 @@ public class UserController {
     /**
      * @return user list
      */
-    @ApiOperation("Query User One")
     @GetMapping("/edit/{userId}")
     public ResponseResult<User> edit(@PathVariable("userId") Long userId) {
         return ResponseResult.success(userService.findById(userId));
@@ -52,7 +49,6 @@ public class UserController {
     /**
      * @return user list
      */
-    @ApiOperation("Query User List")
     @GetMapping("/list")
     public ResponseResult<List<User>> list(UserQueryBean userQueryBean) {
         return ResponseResult.success(userService.findList(userQueryBean));

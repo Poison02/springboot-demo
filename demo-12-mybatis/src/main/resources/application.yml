@@ -19,16 +19,3 @@ mybatis:
     default-executor-type: REUSE
     use-actual-param-name: true
 
-knife4j:
-  enable: true
-  setting:
-    # default lang
-    language: en-US
-    # footer
-    enableFooter: false
-    enableFooterCustom: true
-    footerCustomContent: Poison02-Java-Study
-    # models
-    enableSwaggerModels: true
-    swaggerModelName: My Models
-
