@@ -1,21 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca40f7aa-5599-4690-b687-0cd4b336d7c9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-12-mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-12-mybatis/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-12-mybatis/src/main/java/cdu/zch/demo12mybatis/Demo12MybatisApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-12-mybatis/src/main/java/cdu/zch/demo12mybatis/Demo12MybatisApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-12-mybatis/src/main/java/cdu/zch/demo12mybatis/config/OpenApiConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-12-mybatis/src/main/java/cdu/zch/demo12mybatis/controller/RoleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-12-mybatis/src/main/java/cdu/zch/demo12mybatis/controller/RoleController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-12-mybatis/src/main/java/cdu/zch/demo12mybatis/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-12-mybatis/src/main/java/cdu/zch/demo12mybatis/controller/UserController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/demo-15-JPA">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -75,8 +93,8 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "fileTemplates",
-    "spring.configuration.checksum": "bd49c7b845ff74710478e7301e396e98",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "bf8fee394f2d19af1e48a8bb218e3a70",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -95,7 +113,7 @@
       <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-11-nettysocketio\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.Demo12MybatisApplication">
+  <component name="RunManager" selected="JUnit.UserMapperTest.testSave">
     <configuration name="Demo10MailApplicationTests.send" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo-10-mail" />
       <extension name="coverage">
@@ -107,22 +125,6 @@
       <option name="PACKAGE_NAME" value="cdu.zch.demo10mail" />
       <option name="MAIN_CLASS_NAME" value="cdu.zch.demo10mail.Demo10MailApplicationTests" />
       <option name="METHOD_NAME" value="send" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo10MailApplicationTests.sendHtmlMail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="demo-10-mail" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cdu.zch.demo10mail.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="cdu.zch.demo10mail" />
-      <option name="MAIN_CLASS_NAME" value="cdu.zch.demo10mail.Demo10MailApplicationTests" />
-      <option name="METHOD_NAME" value="sendHtmlMail" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -171,6 +173,22 @@
       <option name="PACKAGE_NAME" value="cdu.zch.demo10mail.service" />
       <option name="MAIN_CLASS_NAME" value="cdu.zch.demo10mail.service.MailServiceTest" />
       <option name="METHOD_NAME" value="sendSimpleMail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.testSave" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-15-JPA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cdu.zch.demo15jpa.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cdu.zch.demo15jpa.mapper" />
+      <option name="MAIN_CLASS_NAME" value="cdu.zch.demo15jpa.mapper.UserMapperTest" />
+      <option name="METHOD_NAME" value="testSave" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -296,13 +314,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Demo15JpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="demo-15-JPA" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cdu.zch.demo15jpa.Demo15JpaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Demo10MailApplicationTests.sendSimpleMail" />
+        <item itemvalue="JUnit.UserMapperTest.testSave" />
+        <item itemvalue="JUnit.MailServiceTest.sendSimpleMail" />
         <item itemvalue="JUnit.Demo10MailApplicationTests.testGeneratePassword" />
         <item itemvalue="JUnit.Demo10MailApplicationTests.send" />
-        <item itemvalue="JUnit.Demo10MailApplicationTests.sendHtmlMail" />
-        <item itemvalue="JUnit.MailServiceTest.sendSimpleMail" />
+        <item itemvalue="JUnit.Demo10MailApplicationTests.sendSimpleMail" />
       </list>
     </recent_temporary>
   </component>
@@ -327,18 +352,34 @@
       <workItem from="1682399479000" duration="150000" />
       <workItem from="1682399637048" duration="126000" />
       <workItem from="1682399771087" duration="3532000" />
+      <workItem from="1682414806834" duration="3819000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="application.yml" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
