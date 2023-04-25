@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca40f7aa-5599-4690-b687-0cd4b336d7c9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-11-nettysocketio/target/classes/META-INF/spring-configuration-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/demo-11-nettysocketio/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-14-easyexcel/src/main/java/cdu/zch/demo14easyexcel/Demo14EasyexcelApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-14-easyexcel/src/main/java/cdu/zch/demo14easyexcel/Demo14EasyexcelApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-12-mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-12-mybatis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-12-mybatis/src/main/java/cdu/zch/demo12mybatis/Demo12MybatisApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-12-mybatis/src/main/java/cdu/zch/demo12mybatis/Demo12MybatisApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-12-mybatis/src/main/java/cdu/zch/demo12mybatis/config/OpenApiConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-12-mybatis/src/main/java/cdu/zch/demo12mybatis/controller/RoleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-12-mybatis/src/main/java/cdu/zch/demo12mybatis/controller/RoleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-12-mybatis/src/main/java/cdu/zch/demo12mybatis/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-12-mybatis/src/main/java/cdu/zch/demo12mybatis/controller/UserController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +95,7 @@
       <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-11-nettysocketio\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.Demo11NettysocketioApplication">
+  <component name="RunManager" selected="Spring Boot.Demo12MybatisApplication">
     <configuration name="Demo10MailApplicationTests.send" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo-10-mail" />
       <extension name="coverage">
@@ -324,7 +326,7 @@
       <workItem from="1682399366403" duration="102000" />
       <workItem from="1682399479000" duration="150000" />
       <workItem from="1682399637048" duration="126000" />
-      <workItem from="1682399771087" duration="1733000" />
+      <workItem from="1682399771087" duration="3532000" />
     </task>
     <servers />
   </component>
