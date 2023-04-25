@@ -18,4 +18,3 @@
 - [springboot-mybatis](/demo-12-mybatis/)  springboot整合mybatis
 - [springboot-mybatis-plus](/demo-12-mybatis/)  springboot整合mybatis-plus
 - [springboot-easyexcel](/demo-14-easyexcel/)  springboot整合easyexcel
-- [springboot-JPA](/demo-15-JPA/)  springboot整合JPA（目前有问题，待完善！）
