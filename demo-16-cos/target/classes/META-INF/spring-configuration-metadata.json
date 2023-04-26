@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "tencent.cloud",
+      "type": "cdu.zch.demo16cos.utils.CosUtils",
+      "sourceType": "cdu.zch.demo16cos.utils.CosUtils"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
