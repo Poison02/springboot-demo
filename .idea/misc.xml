@@ -3,6 +3,7 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/demo-15-JPA" />
+    <file type="web" url="file://$PROJECT_DIR$/demo-16-cos" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -25,6 +26,7 @@
         <option value="$PROJECT_DIR$/demo-13-mybatisplus/pom.xml" />
         <option value="$PROJECT_DIR$/demo-14-easyexcel/pom.xml" />
         <option value="$PROJECT_DIR$/demo-15-JPA/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-16-cos/pom.xml" />
       </list>
     </option>
   </component>

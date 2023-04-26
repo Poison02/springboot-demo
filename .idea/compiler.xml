@@ -14,6 +14,7 @@
         <module name="demo-09-redis" />
         <module name="demo-03-actuator" />
         <module name="demo-05-logback" />
+        <module name="demo-16-cos" />
         <module name="demo-01-hello" />
         <module name="demo-14-easyexcel" />
         <module name="spring-boot-demo" />
@@ -52,6 +53,7 @@
       <module name="demo-13-mybatisplus" options="-parameters" />
       <module name="demo-14-easyexcel" options="-parameters" />
       <module name="demo-15-JPA" options="-parameters" />
+      <module name="demo-16-cos" options="-parameters" />
     </option>
   </component>
 </project>
