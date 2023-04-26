@@ -22,8 +22,8 @@ sa-token:
 
 tencent:
   cloud:
-    appId: 1315662121 # 腾讯云APPID
-    secretId: AKIDymMiqlUzHKCrIUR9cWEhvvmTxEF4f2CB # 腾讯云SecretId
-    secretKey: Z2NYZP3UkodFdmibNvGcmiW6UeaHk4C6 # 腾讯云SecretKey
-    region: ap-guangzhou # 存储桶的区域
-    bucket: emos # 存储桶的名字
+    appId:  # 腾讯云APPID
+    secretId:  # 腾讯云SecretId
+    secretKey:  # 腾讯云SecretKey
+    region:  # 存储桶的区域
+    bucket:  # 存储桶的名字
