@@ -19,3 +19,6 @@
 - [springboot-mybatis-plus](/demo-12-mybatis/)  springboot整合mybatis-plus
 - [springboot-easyexcel](/demo-14-easyexcel/)  springboot整合easyexcel
 - [springboot-JPA](/demo-15-JPA/)  springboot整合JPA（目前有问题，待完善！）
+- [springboot-cos](/demo-16-cos) springboot整合腾讯云cos
+- [springboot-emoji](/demo-17-emoji) springboot与emoji-java的简单使用
+- [springboot-swagger3](/demo-18-swagger) springboot整合swagger3
