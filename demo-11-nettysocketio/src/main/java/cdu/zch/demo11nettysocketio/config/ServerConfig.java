@@ -19,6 +19,7 @@ public class ServerConfig {
         com.corundumstudio.socketio.Configuration config = new com.corundumstudio.socketio.Configuration();
         config.setHostname(wsConfig.getHost());
         config.setPort(wsConfig.getPort());
+        config.setOrigin("*");
 
         // 这里的listener可以用来进行身份验证
         config.setAuthorizationListener(data -> {

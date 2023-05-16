@@ -1,7 +1,6 @@
 package cdu.zch.demo15jpa.mapper;
 
 import cdu.zch.demo15jpa.Demo15JpaApplicationTests;
-import cdu.zch.demo15jpa.entity.Department;
 import cdu.zch.demo15jpa.entity.User;
 import cn.hutool.json.JSONUtil;
 import lombok.extern.slf4j.Slf4j;

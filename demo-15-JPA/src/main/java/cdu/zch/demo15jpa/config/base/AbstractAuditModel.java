@@ -1,4 +1,4 @@
-package cdu.zch.demo15jpa.entity.base;
+package cdu.zch.demo15jpa.config.base;
 
 import lombok.Data;
 import org.springframework.data.annotation.CreatedDate;

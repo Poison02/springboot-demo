@@ -9,6 +9,19 @@
   <component name="ChangeListManager">
     <list default="true" id="ca40f7aa-5599-4690-b687-0cd4b336d7c9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-11-nettysocketio/src/main/java/cdu/zch/demo11nettysocketio/config/ServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-11-nettysocketio/src/main/java/cdu/zch/demo11nettysocketio/config/ServerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-15-JPA/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-15-JPA/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-15-JPA/src/main/java/cdu/zch/demo15jpa/config/JpaConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-15-JPA/src/main/java/cdu/zch/demo15jpa/entity/Department.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-15-JPA/src/main/java/cdu/zch/demo15jpa/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-15-JPA/src/main/java/cdu/zch/demo15jpa/entity/base/AbstractAuditModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-15-JPA/src/main/java/cdu/zch/demo15jpa/mapper/DepartmentMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-15-JPA/src/main/java/cdu/zch/demo15jpa/mapper/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-15-JPA/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-15-JPA/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-15-JPA/src/test/java/cdu/zch/demo15jpa/mapper/DepartmentMapperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-15-JPA/src/test/java/cdu/zch/demo15jpa/mapper/DepartmentMapperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-15-JPA/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-15-JPA/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-15-JPA/target/classes/classpath.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-15-JPA/target/test-classes/classpath.index" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +53,8 @@
       <list>
         <option value="HTML File" />
         <option value="FxmlFile" />
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -88,7 +101,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "D:/大三下SpringBoot/oos",
+    "last_opened_file_path": "D:/笔记/spring-boot-demo/spring-boot-demo/demo-15-JPA/src/main/java/cdu/zch/demo15jpa",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -110,34 +123,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-15-JPA\src\main\java\cdu\zch\demo15jpa" />
       <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-16-cos\src\main\java\cdu\zch\demo16cos\controller" />
       <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-16-cos\src\main\java\cdu\zch\demo16cos\utils" />
       <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-14-easyexcel\src\main\java\cdu\zch\demo14easyexcel\entity" />
       <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-13-mybatisplus\src\main\resources" />
-      <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-13-mybatisplus\src\main\java\cdu\zch\demo13mybatisplus" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="cdu.zch.demo16cos.config" />
       <recent name="cdu.zch.demo16cos.exception" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Demo17EmojiApplicationTests.contextLoads">
-    <configuration name="Demo10MailApplicationTests.send" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="demo-10-mail" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cdu.zch.demo10mail.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="cdu.zch.demo10mail" />
-      <option name="MAIN_CLASS_NAME" value="cdu.zch.demo10mail.Demo10MailApplicationTests" />
-      <option name="METHOD_NAME" value="send" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Spring Boot.Demo15JpaApplication">
     <configuration name="Demo10MailApplicationTests.testGeneratePassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo-10-mail" />
       <extension name="coverage">
@@ -198,6 +195,20 @@
       <option name="MAIN_CLASS_NAME" value="cdu.zch.demo15jpa.mapper.UserMapperTest" />
       <option name="METHOD_NAME" value="testSave" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cdu.zch.demo15jpa.entity in demo-15-JPA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-15-JPA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cdu.zch.demo15jpa.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cdu.zch.demo15jpa.entity" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -345,11 +356,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Demo17EmojiApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.cdu.zch.demo15jpa.entity in demo-15-JPA" />
         <item itemvalue="JUnit.UserMapperTest.testSave" />
+        <item itemvalue="JUnit.Demo17EmojiApplicationTests.contextLoads" />
         <item itemvalue="JUnit.MailServiceTest.sendSimpleMail" />
         <item itemvalue="JUnit.Demo10MailApplicationTests.testGeneratePassword" />
-        <item itemvalue="JUnit.Demo10MailApplicationTests.send" />
       </list>
     </recent_temporary>
   </component>
@@ -382,6 +393,8 @@
       <workItem from="1683283568201" duration="1269000" />
       <workItem from="1683467002900" duration="1047000" />
       <workItem from="1683537093206" duration="540000" />
+      <workItem from="1683614058973" duration="9898000" />
+      <workItem from="1684199746715" duration="2840000" />
     </task>
     <servers />
   </component>

@@ -16,15 +16,18 @@ import javax.persistence.EntityManagerFactory;
 import javax.sql.DataSource;
 
 /**
- * @author Zch
- * @data 2023/4/25
- **/
+ * <p>
+ * JPA配置类
+ * </p>
+ *
+ * @author yangkai.shen
+ * @date Created in 2018-11-07 11:05
+ */
 @Configuration
 @EnableTransactionManagement
 @EnableJpaAuditing
-@EnableJpaRepositories(basePackages = "cdu.zch.demo15jpa.mapper", transactionManagerRef = "jpaTransactionManager")
+@EnableJpaRepositories(basePackages = "cdu.zch.demo15jpa.config.repository", transactionManagerRef = "jpaTransactionManager")
 public class JpaConfig {
-
     @Bean
     @ConfigurationProperties(prefix = "spring.datasource")
     public DataSource dataSource() {
@@ -32,21 +35,20 @@ public class JpaConfig {
     }
 
     @Bean
-    public LocalContainerEntityManagerFactoryBean entityManagerFactoryBean() {
-        HibernateJpaVendorAdapter jpaVendorAdapter = new HibernateJpaVendorAdapter();
-        jpaVendorAdapter.setGenerateDdl(false);
+    public LocalContainerEntityManagerFactoryBean entityManagerFactory() {
+        HibernateJpaVendorAdapter japVendor = new HibernateJpaVendorAdapter();
+        japVendor.setGenerateDdl(false);
         LocalContainerEntityManagerFactoryBean entityManagerFactory = new LocalContainerEntityManagerFactoryBean();
         entityManagerFactory.setDataSource(dataSource());
-        entityManagerFactory.setJpaVendorAdapter(jpaVendorAdapter);
-        entityManagerFactory.setPackagesToScan("cdu.zch.demo15jpa.entity");
+        entityManagerFactory.setJpaVendorAdapter(japVendor);
+        entityManagerFactory.setPackagesToScan("com.xkcoding.orm.jpa.entity");
         return entityManagerFactory;
     }
 
     @Bean
-    public PlatformTransactionManager jpaTransactionManage(EntityManagerFactory entityManagerFactory) {
+    public PlatformTransactionManager jpaTransactionManager(EntityManagerFactory entityManagerFactory) {
         JpaTransactionManager transactionManager = new JpaTransactionManager();
         transactionManager.setEntityManagerFactory(entityManagerFactory);
         return transactionManager;
     }
-
 }

@@ -1,6 +1,6 @@
-package cdu.zch.demo15jpa.entity;
+package cdu.zch.demo15jpa.config;
 
-import cdu.zch.demo15jpa.entity.base.AbstractAuditModel;
+import cdu.zch.demo15jpa.config.base.AbstractAuditModel;
 import lombok.*;
 
 import javax.persistence.*;

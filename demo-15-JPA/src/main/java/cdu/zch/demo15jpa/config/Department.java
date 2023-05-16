@@ -1,4 +1,4 @@
-package cdu.zch.demo15jpa.entity;
+package cdu.zch.demo15jpa.config;
 
 import cdu.zch.demo15jpa.entity.base.AbstractAuditModel;
 import lombok.*;

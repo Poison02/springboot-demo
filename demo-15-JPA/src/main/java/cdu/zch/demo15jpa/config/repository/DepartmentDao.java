@@ -1,18 +1,22 @@
-package cdu.zch.demo15jpa.mapper;
+package cdu.zch.demo15jpa.config.repository;
 
-import cdu.zch.demo15jpa.entity.Department;
+import cdu.zch.demo15jpa.config.Department;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
-/**
- * @author Zch
- * @data 2023/4/25
- **/
-@Repository
-public interface DepartmentMapper extends JpaRepository<Department, Long> {
 
+/**
+ * <p>
+ * User Dao
+ * </p>
+ *
+ * @author 76peter
+ * @date Created in 2019-10-01 18:07
+ */
+@Repository
+public interface DepartmentDao extends JpaRepository<Department, Long> {
     /**
      * 根据层级查询部门
      *
@@ -20,5 +24,4 @@ public interface DepartmentMapper extends JpaRepository<Department, Long> {
      * @return 部门列表
      */
     List<Department> findDepartmentsByLevels(Integer level);
-
 }
