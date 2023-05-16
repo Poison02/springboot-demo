@@ -21,6 +21,7 @@
         <module name="spring-boot-demo" />
         <module name="demo-11-nettysocketio" />
         <module name="demo-02-properties" />
+        <module name="demo-18-swagger" />
         <module name="demo-08-thymeleaf" />
         <module name="demo-09-jdbc" />
         <module name="demo-10-mail" />
@@ -32,7 +33,11 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="demo-09-jdbc" target="1.8" />
+<<<<<<< HEAD
       <module name="demo-18-swagger" target="1.8" />
+=======
+      <module name="demo-18-openapi" target="1.8" />
+>>>>>>> f58833cdc76e990be059a3992bb0a263c20a3511
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -57,6 +62,8 @@
       <module name="demo-15-JPA" options="-parameters" />
       <module name="demo-16-cos" options="-parameters" />
       <module name="demo-17-emoji" options="-parameters" />
+      <module name="demo-18-openapi" options="-parameters" />
+      <module name="demo-18-swagger" options="-parameters" />
     </option>
   </component>
 </project>

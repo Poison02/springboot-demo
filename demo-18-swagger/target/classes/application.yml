@@ -1,0 +1,15 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /demo18
+spring:
+  api-docs:
+    # 是否开启API文档，true表示开启，false表示关闭
+    enabled: true
+    groups:
+      # 是否开启分组，true表示开启
+      enabled: true
+    # API元数据访问路径，默认为/v3/api-docs
+    path: /v3/api-docs
+  swagger-ui:
+    path: /swagger-ui.html

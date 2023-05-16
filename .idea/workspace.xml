@@ -9,19 +9,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ca40f7aa-5599-4690-b687-0cd4b336d7c9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-11-nettysocketio/src/main/java/cdu/zch/demo11nettysocketio/config/ServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-11-nettysocketio/src/main/java/cdu/zch/demo11nettysocketio/config/ServerConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-15-JPA/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-15-JPA/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-15-JPA/src/main/java/cdu/zch/demo15jpa/config/JpaConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-15-JPA/src/main/java/cdu/zch/demo15jpa/entity/Department.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-15-JPA/src/main/java/cdu/zch/demo15jpa/entity/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-15-JPA/src/main/java/cdu/zch/demo15jpa/entity/base/AbstractAuditModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-15-JPA/src/main/java/cdu/zch/demo15jpa/mapper/DepartmentMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-15-JPA/src/main/java/cdu/zch/demo15jpa/mapper/UserMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-15-JPA/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-15-JPA/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-15-JPA/src/test/java/cdu/zch/demo15jpa/mapper/DepartmentMapperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-15-JPA/src/test/java/cdu/zch/demo15jpa/mapper/DepartmentMapperTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-15-JPA/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-15-JPA/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-15-JPA/target/classes/classpath.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-15-JPA/target/test-classes/classpath.index" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +20,9 @@
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/demo-16-cos">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/demo-18-seagger">
       <ProjectState />
     </projectState>
   </component>
@@ -99,7 +89,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "demo-18-swagger",
     "jdk.selected.JAVA_MODULE": "1.8",
     "last_opened_file_path": "D:/笔记/spring-boot-demo/spring-boot-demo/demo-15-JPA/src/main/java/cdu/zch/demo15jpa",
     "node.js.detected.package.eslint": "true",
@@ -109,9 +99,9 @@
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.13002366",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
-    "spring.configuration.checksum": "05bb2fe3a3401af86da0fe89d4e80f0e",
+    "project.structure.side.proportion": "0.17730498",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "spring.configuration.checksum": "c64f3f65d25369e7a5a6216f836bc827",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -134,7 +124,7 @@
       <recent name="cdu.zch.demo16cos.exception" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.Demo15JpaApplication">
+  <component name="RunManager" selected="Spring Boot.Demo18SwaggerApplication">
     <configuration name="Demo10MailApplicationTests.testGeneratePassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo-10-mail" />
       <extension name="coverage">
@@ -354,6 +344,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Demo18OpenAPIApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="demo-18-openapi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cdu.zch.demo18openapi.Demo18OpenAPIApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo18SwaggerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="demo-18-swagger" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cdu.zch.demo18swagger.Demo18SwaggerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.cdu.zch.demo15jpa.entity in demo-15-JPA" />
@@ -394,7 +398,10 @@
       <workItem from="1683467002900" duration="1047000" />
       <workItem from="1683537093206" duration="540000" />
       <workItem from="1683614058973" duration="9898000" />
-      <workItem from="1684199746715" duration="2840000" />
+      <workItem from="1684199746715" duration="7851000" />
+      <workItem from="1684212345332" duration="1725000" />
+      <workItem from="1684214185161" duration="1132000" />
+      <workItem from="1684221049886" duration="1115000" />
     </task>
     <servers />
   </component>
