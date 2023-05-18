@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo-10-mail" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="admin-client" target="1.8" />
+      <module name="admin-server" target="1.8" />
+      <module name="demo-01-hello" target="1.8" />
+      <module name="demo-02-properties" target="1.8" />
+      <module name="demo-03-actuator" target="1.8" />
+      <module name="demo-04-admin" target="1.8" />
+      <module name="demo-05-logback" target="1.8" />
+      <module name="demo-06-aop" target="1.8" />
+      <module name="demo-07-exception-handler" target="1.8" />
+      <module name="demo-08-thymeleaf" target="1.8" />
+      <module name="demo-09-redis" target="1.8" />
+      <module name="demo-11-nettysocketio" target="1.8" />
+      <module name="demo-12-mybatis" target="1.8" />
+      <module name="demo-13-mybatisplus" target="1.8" />
+      <module name="demo-14-easyexcel" target="1.8" />
+      <module name="demo-15-JPA" target="1.8" />
+      <module name="demo-16-cos" target="1.8" />
+      <module name="demo-17-emoji" target="1.8" />
+      <module name="demo-18-swagger" target="1.8" />
+      <module name="spring-boot-demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo-10-mail" options="-parameters" />
+    </option>
+  </component>
+</project>

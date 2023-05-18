@@ -34,7 +34,7 @@ public class Demo10MailApplicationTests {
      */
     @org.junit.Test
     public void sendSimpleMail() {
-        mailService.sendSimpleMail("2069820192@qq.com", "这是一封简单邮件", "这是一封普通的SpringBoot测试邮件");
+        mailService.sendSimpleMail("Z2069820192@163.com", "这是一封简单邮件", "这是一封普通的SpringBoot测试邮件");
     }
 
     /**

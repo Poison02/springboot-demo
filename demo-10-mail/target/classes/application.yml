@@ -1,9 +1,9 @@
 spring:
   mail:
     default-encoding: UTF-8
-    host: smtp.aliyun.com
+    host: smtp.qq.com
     protocol: smtp
-    username: Z2069820192@aliyun.com
-    password: Zch248613@
+    username: 2069820192@qq.com
+    password: rxumsshgsmfieafb
     port: 465
     test-connection: true
