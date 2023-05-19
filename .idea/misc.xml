@@ -30,6 +30,7 @@
         <option value="$PROJECT_DIR$/demo-16-cos/pom.xml" />
         <option value="$PROJECT_DIR$/demo-17-emoji/pom.xml" />
         <option value="$PROJECT_DIR$/demo-18-swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-19-ratelimit/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

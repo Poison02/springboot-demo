@@ -8,6 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca40f7aa-5599-4690-b687-0cd4b336d7c9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +48,7 @@
         <option value="FxmlFile" />
         <option value="Enum" />
         <option value="Interface" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -89,9 +93,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "demo-19-ratelimit",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "D:/笔记/spring-boot-demo/spring-boot-demo",
+    "last_opened_file_path": "D:/笔记/spring-boot-demo/spring-boot-demo/demo-19-ratelimit/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -113,18 +117,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-19-ratelimit\src\main\resources" />
       <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-15-JPA\src\main\java\cdu\zch\demo15jpa" />
       <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-16-cos\src\main\java\cdu\zch\demo16cos\controller" />
       <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-16-cos\src\main\java\cdu\zch\demo16cos\utils" />
       <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-14-easyexcel\src\main\java\cdu\zch\demo14easyexcel\entity" />
-      <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-13-mybatisplus\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="cdu.zch.demo16cos.config" />
       <recent name="cdu.zch.demo16cos.exception" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.Demo18SwaggerApplication">
+  <component name="RunManager" selected="Spring Boot.Demo19RatelimitApplication">
     <configuration name="Demo10MailApplicationTests.testGeneratePassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo-10-mail" />
       <extension name="coverage">
@@ -358,6 +362,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Demo19RatelimitApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="demo-19-ratelimit" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cdu.zch.demo19ratelimit.Demo19RatelimitApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.cdu.zch.demo15jpa.entity in demo-15-JPA" />
@@ -406,7 +417,7 @@
       <workItem from="1684399353562" duration="259000" />
       <workItem from="1684420677908" duration="373000" />
       <workItem from="1684471055096" duration="124000" />
-      <workItem from="1684476474611" duration="1194000" />
+      <workItem from="1684476474611" duration="4074000" />
     </task>
     <servers />
   </component>
@@ -414,6 +425,7 @@
     <option name="version" value="3" />
   </component>
   <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.lua" />
     <option featureType="com.intellij.fileTypeFactory" implementationName="application.yml" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
