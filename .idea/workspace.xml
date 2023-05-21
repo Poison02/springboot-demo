@@ -8,9 +8,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca40f7aa-5599-4690-b687-0cd4b336d7c9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,9 +90,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "demo-19-ratelimit",
+    "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "D:/笔记/spring-boot-demo/spring-boot-demo/demo-19-ratelimit/src/main/resources",
+    "last_opened_file_path": "E:/test/blog/blog-springboot",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -105,7 +102,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.17730498",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
-    "spring.configuration.checksum": "4c8047ab257e52396c0c7b5994ad7d12",
+    "spring.configuration.checksum": "9fc9a31d7d8f0d14b396e6c0e6e42fd8",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -417,7 +414,8 @@
       <workItem from="1684399353562" duration="259000" />
       <workItem from="1684420677908" duration="373000" />
       <workItem from="1684471055096" duration="124000" />
-      <workItem from="1684476474611" duration="4074000" />
+      <workItem from="1684476474611" duration="4255000" />
+      <workItem from="1684491324427" duration="1659000" />
     </task>
     <servers />
   </component>
