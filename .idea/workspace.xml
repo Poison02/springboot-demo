@@ -8,6 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca40f7aa-5599-4690-b687-0cd4b336d7c9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,11 +44,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="FxmlFile" />
         <option value="Enum" />
-        <option value="Interface" />
         <option value="AnnotationType" />
+        <option value="HTML File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -90,9 +93,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "demo-20-quartz",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "E:/test/blog/blog-springboot",
+    "last_opened_file_path": "D:/笔记/spring-boot-demo/spring-boot-demo",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -125,7 +128,7 @@
       <recent name="cdu.zch.demo16cos.exception" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.Demo19RatelimitApplication">
+  <component name="RunManager" selected="Spring Boot.Demo20QuartzApplication">
     <configuration name="Demo10MailApplicationTests.testGeneratePassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo-10-mail" />
       <extension name="coverage">
@@ -366,6 +369,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Demo20QuartzApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="demo-20-quartz" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cdu.zch.demo20quartz.Demo20QuartzApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.cdu.zch.demo15jpa.entity in demo-15-JPA" />
@@ -416,6 +426,7 @@
       <workItem from="1684471055096" duration="124000" />
       <workItem from="1684476474611" duration="4255000" />
       <workItem from="1684491324427" duration="1659000" />
+      <workItem from="1684673580547" duration="2793000" />
     </task>
     <servers />
   </component>
