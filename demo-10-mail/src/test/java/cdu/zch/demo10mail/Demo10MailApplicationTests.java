@@ -34,7 +34,7 @@ public class Demo10MailApplicationTests {
      */
     @org.junit.Test
     public void sendSimpleMail() {
-        mailService.sendSimpleMail("2069820192@qq.com", "这是一封简单邮件", "这是一封普通的SpringBoot测试邮件");
+        mailService.sendSimpleMail("xxx@163.com", "这是一封简单邮件", "这是一封普通的SpringBoot测试邮件");
     }
 
     /**
@@ -50,7 +50,7 @@ public class Demo10MailApplicationTests {
         context.setVariable("url", "https://github.com/poison02");
 
         String emailTemplate = templateEngine.process("welcome", context);
-        mailService.sendHtmlMail("2069820192@qq.com", "这是一封模板HTML邮件", emailTemplate);
+        mailService.sendHtmlMail("xxx@163.com", "这是一封模板HTML邮件", emailTemplate);
     }
 
     /**
@@ -71,11 +71,11 @@ public class Demo10MailApplicationTests {
 
         Context context = new Context();
         context.setVariable("project", "Spring Boot Demo");
-        context.setVariable("author", "Yangkai.Shen");
+        context.setVariable("author", "Zheng CaiHua");
         context.setVariable("url", "https://github.com/xkcoding/spring-boot-demo");
 
         String emailTemplate = templateEngine.process("test", context);
-        mailService.sendHtmlMail("237497819@qq.com", "这是一封模板HTML邮件", emailTemplate);
+        mailService.sendHtmlMail("xxx@163.com", "这是一封模板HTML邮件", emailTemplate);
     }
 
     /**
@@ -85,8 +85,8 @@ public class Demo10MailApplicationTests {
      */
     @org.junit.Test
     public void sendAttachmentsMail() throws MessagingException {
-        URL resource = ResourceUtil.getResource("static/xkcoding.png");
-        mailService.sendAttachmentsMail("237497819@qq.com", "这是一封带附件的邮件", "邮件中有附件，请注意查收！", resource.getPath());
+        URL resource = ResourceUtil.getResource("static/firefox-icon.png");
+        mailService.sendAttachmentsMail("xxx@163.com", "这是一封带附件的邮件", "邮件中有附件，请注意查收！", resource.getPath());
     }
 
     /**
@@ -96,10 +96,10 @@ public class Demo10MailApplicationTests {
      */
     @org.junit.Test
     public void sendResourceMail() throws MessagingException {
-        String rscId = "xkcoding";
-        String content = "<html><body>这是带静态资源的邮件<br/><img src=\'cid:" + rscId + "\' ></body></html>";
-        URL resource = ResourceUtil.getResource("static/xkcoding.png");
-        mailService.sendResourceMail("237497819@qq.com", "这是一封带静态资源的邮件", content, resource.getPath(), rscId);
+        String rscId = "Zheng CaiHua";
+        String content = "<html><body>这是带静态资源的邮件<br/><img src=cid:" + rscId + "\\ ></body></html>";
+        URL resource = ResourceUtil.getResource("static/firefox-icon.png");
+        mailService.sendResourceMail("xxx@163.com", "这是一封带静态资源的邮件", content, resource.getPath(), rscId);
     }
 
 }

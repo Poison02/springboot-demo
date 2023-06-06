@@ -8,7 +8,7 @@ public enum TypeEnum {
 
     ARCHIVE("archive");
 
-    private String key;
+    private final String key;
 
     private TypeEnum(String key) {
         this.key = key;

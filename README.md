@@ -13,7 +13,7 @@
 - [springboot-exception-handler](/demo-07-exception-handler/)  springboot统一异常处理
 - [springboot-thymeleaf](/demo-08-thymeleaf/)  springboot整合thymeleaf模板引擎
 - [springboot-redis](/demo-09-redis/)  springboot整合redis
-- [springboot-mail](/demo-10-mail/) springboot整合mail实现发邮件（目前有问题，待完善）
+- [springboot-mail](/demo-10-mail/) springboot整合mail实现发邮件
 - [springboot-netty-socketio](/demo-11-nettysocketio/)  springboot整合netty-socketio
 - [springboot-mybatis](/demo-12-mybatis/)  springboot整合mybatis
 - [springboot-mybatis-plus](/demo-12-mybatis/)  springboot整合mybatis-plus
