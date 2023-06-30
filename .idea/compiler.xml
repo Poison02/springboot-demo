@@ -19,6 +19,7 @@
         <module name="demo-16-cos" />
         <module name="demo-01-hello" />
         <module name="demo-14-easyexcel" />
+        <module name="demo-21-mybatis-generator-page" />
         <module name="spring-boot-demo" />
         <module name="demo-11-nettysocketio" />
         <module name="demo-02-properties" />
@@ -57,6 +58,7 @@
       <module name="demo-18-swagger" options="-parameters" />
       <module name="demo-19-ratelimit" options="-parameters" />
       <module name="demo-20-quartz" options="-parameters" />
+      <module name="demo-21-mybatis-generator-page" options="-parameters" />
     </option>
   </component>
 </project>

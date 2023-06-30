@@ -38,7 +38,6 @@ public class AopLog {
      * 切入点
      */
     @Pointcut("execution(public * cdu.zch.demo06aop.controller.*Controller.*(..))")
-
     public void log() {}
 
     /**

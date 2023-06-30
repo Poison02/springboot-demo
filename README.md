@@ -23,3 +23,4 @@
 - [springboot-emoji](/demo-17-emoji) springboot与emoji-java的简单使用
 - [springboot-swagger3](/demo-18-swagger) springboot整合swagger3
 - [springboot-quartz](/demo-20-quartz) springboot整合quartz
+- [springboot-mybatis-generator-page](/demo-21-mybatis-generator-page) springboot整合generator和pagehelper

@@ -32,6 +32,7 @@
         <option value="$PROJECT_DIR$/demo-18-swagger/pom.xml" />
         <option value="$PROJECT_DIR$/demo-19-ratelimit/pom.xml" />
         <option value="$PROJECT_DIR$/demo-20-quartz/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-21-mybatis-generator-page/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
