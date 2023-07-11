@@ -7,15 +7,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca40f7aa-5599-4690-b687-0cd4b336d7c9" name="Changes" comment="fix: 修复spring boot整合mail发送邮件">
+    <list default="true" id="ca40f7aa-5599-4690-b687-0cd4b336d7c9" name="Changes" comment="fix: update gitignre">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-05-logback/src/main/resources/logback.spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-05-logback/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-06-aop/src/main/java/cdu/zch/demo06aop/aspectj/AopLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-06-aop/src/main/java/cdu/zch/demo06aop/aspectj/AopLog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-06-aop/src/main/resources/logback.spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-06-aop/src/main/resources/logback-spring.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,18 +95,18 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "D:/笔记/spring-boot-demo/spring-boot-demo/demo-21-mybatis-generator-page/src/main/resources",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "D:/笔记/spring-boot-demo/spring-boot-demo/demo-23-captcha",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.17730498",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
-    "spring.configuration.checksum": "98cac1e325e1bbf458b59dfdea160b00",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
+    "spring.configuration.checksum": "84a86555032bdf16f13d975d6bde1f37",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -121,22 +118,23 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-21-mybatis-generator-page\src\main\resources" />
-      <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-20-quartz\src\main\resources\sql" />
-      <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-19-ratelimit\src\main\resources" />
-      <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-15-JPA\src\main\java\cdu\zch\demo15jpa" />
-      <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-16-cos\src\main\java\cdu\zch\demo16cos\controller" />
+      <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-22-rbac-security\src\main\java\cdu\zch\rbac\security\controller" />
+      <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-22-rbac-security\src\main\java\cdu\zch\rbac\security\model" />
+      <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-22-rbac-security\src\main\java\cdu\zch\rbac\security\playload" />
+      <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-22-rbac-security\src\main\java\cdu\zch\rbac\security\dao" />
+      <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-22-rbac-security\src\main\java\cdu\zch\rbac\security\service" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-21-mybatis-generator-page\src\main\resources\mappers" />
       <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-21-mybatis-generator-page\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cdu.zch.rbac.security.config" />
       <recent name="cdu.zch.demo16cos.config" />
       <recent name="cdu.zch.demo16cos.exception" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.Demo06AopApplication">
+  <component name="RunManager" selected="Spring Boot.Demo23CaptchaApplication">
     <configuration name="Demo10MailApplicationTests.sendAttachmentsMail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo-10-mail" />
       <extension name="coverage">
@@ -393,6 +391,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Demo22RbacSecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="demo-22-rbac-security" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cdu.zch.Demo22RbacSecurityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo23CaptchaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="demo-23-captcha" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cdu.zch.Demo23CaptchaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.Demo21MybatisGeneratorPageApplicationTests.contextLoads" />
@@ -451,6 +463,8 @@
       <workItem from="1685179347689" duration="20000" />
       <workItem from="1686012113781" duration="2054000" />
       <workItem from="1688090655156" duration="1595000" />
+      <workItem from="1688374829652" duration="3447000" />
+      <workItem from="1689082795660" duration="1916000" />
     </task>
     <task id="LOCAL-00001" summary="fix: 修复spring boot整合mail发送邮件">
       <created>1686014100345</created>
@@ -459,7 +473,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686014100345</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix: update gitignre">
+      <created>1688374895859</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688374895859</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -494,7 +515,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix: 修复spring boot整合mail发送邮件" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: 修复spring boot整合mail发送邮件" />
+    <MESSAGE value="fix: update gitignre" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: update gitignre" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -7,29 +7,31 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="demo-04-admin" />
-        <module name="demo-06-aop" />
         <module name="demo-13-mybatisplus" />
         <module name="admin-client" />
+        <module name="demo-14-easyexcel" />
+        <module name="spring-boot-demo" />
+        <module name="demo-18-swagger" />
+        <module name="demo-19-ratelimit" />
+        <module name="demo-15-JPA" />
+        <module name="demo-12-mybatis" />
+        <module name="demo-04-admin" />
+        <module name="demo-06-aop" />
+        <module name="demo-23-captcha" />
         <module name="demo-09-redis" />
+        <module name="demo-22-rbac-security" />
         <module name="demo-03-actuator" />
         <module name="demo-17-emoji" />
         <module name="demo-20-quartz" />
         <module name="demo-05-logback" />
         <module name="demo-16-cos" />
         <module name="demo-01-hello" />
-        <module name="demo-14-easyexcel" />
         <module name="demo-21-mybatis-generator-page" />
-        <module name="spring-boot-demo" />
         <module name="demo-11-nettysocketio" />
         <module name="demo-02-properties" />
-        <module name="demo-18-swagger" />
         <module name="demo-08-thymeleaf" />
-        <module name="demo-19-ratelimit" />
         <module name="demo-10-mail" />
-        <module name="demo-15-JPA" />
         <module name="admin-server" />
-        <module name="demo-12-mybatis" />
         <module name="demo-07-exception-handler" />
       </profile>
     </annotationProcessing>
@@ -59,6 +61,8 @@
       <module name="demo-19-ratelimit" options="-parameters" />
       <module name="demo-20-quartz" options="-parameters" />
       <module name="demo-21-mybatis-generator-page" options="-parameters" />
+      <module name="demo-22-rbac-security" options="-parameters" />
+      <module name="demo-23-captcha" options="-parameters" />
     </option>
   </component>
 </project>
