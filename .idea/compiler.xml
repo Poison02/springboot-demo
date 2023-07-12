@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="demo-13-mybatisplus" />
         <module name="admin-client" />
+        <module name="demo-24-oos-and-minio" />
         <module name="demo-14-easyexcel" />
         <module name="spring-boot-demo" />
         <module name="demo-18-swagger" />
@@ -63,6 +64,7 @@
       <module name="demo-21-mybatis-generator-page" options="-parameters" />
       <module name="demo-22-rbac-security" options="-parameters" />
       <module name="demo-23-captcha" options="-parameters" />
+      <module name="demo-24-oos-and-minio" options="-parameters" />
     </option>
   </component>
 </project>

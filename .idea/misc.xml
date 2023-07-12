@@ -35,6 +35,7 @@
         <option value="$PROJECT_DIR$/demo-21-mybatis-generator-page/pom.xml" />
         <option value="$PROJECT_DIR$/demo-22-rbac-security/pom.xml" />
         <option value="$PROJECT_DIR$/demo-23-captcha/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-24-oos-and-minio/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
