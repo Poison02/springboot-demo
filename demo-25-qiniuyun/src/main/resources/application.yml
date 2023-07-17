@@ -1,0 +1,15 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /demo25
+
+# 七牛云配置
+qiniu:
+  # AK
+  accessKey:
+  # SK
+  secretKey:
+  # 空间名称
+  bucket:
+  # 访问域名
+  domain:

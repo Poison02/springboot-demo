@@ -12,6 +12,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-24-oos-and-minio/target/classes/application.yml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +106,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.17730498",
     "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
-    "spring.configuration.checksum": "d83df735e37e65273b0198f7c4902d84",
+    "spring.configuration.checksum": "5df85cb72b6df9fec495b28f33349f7d",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -133,7 +134,7 @@
       <recent name="cdu.zch.demo16cos.exception" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.Demo24OosAndMinioApplication">
+  <component name="RunManager" selected="Spring Boot.Demo25QiniuyunApplication">
     <configuration name="Demo10MailApplicationTests.sendAttachmentsMail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo-10-mail" />
       <extension name="coverage">
@@ -411,6 +412,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Demo25QiniuyunApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="demo-25-qiniuyun" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cdu.zch.qiniuyun.Demo25QiniuyunApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.Demo21MybatisGeneratorPageApplicationTests.contextLoads" />
@@ -472,6 +480,7 @@
       <workItem from="1688374829652" duration="3447000" />
       <workItem from="1689082795660" duration="1916000" />
       <workItem from="1689146032497" duration="3853000" />
+      <workItem from="1689596431540" duration="1780000" />
     </task>
     <task id="LOCAL-00001" summary="fix: 修复spring boot整合mail发送邮件">
       <created>1686014100345</created>

@@ -26,3 +26,5 @@
 - [springboot-mybatis-generator-page](/demo-21-mybatis-generator-page) springboot整合generator和pagehelper
 - [springboot-rbac-security](/demo-22-rbac-security) springboot整合springSecurity实现简单的RBAC权限认证
 - [springboot-easy-captcha](/demo-23-captcha) springboot整合easy-captcha生成各种常见验证码
+- [springboot-oss-and-minio](/demo-25-oos-and-minio) springboot整合阿里云oss和本地部署的minio实现上传文件
+- [springboot-qiniuyun](/demo-25-qiniuyun) springboot整合七牛云对象存储实现上传文件
