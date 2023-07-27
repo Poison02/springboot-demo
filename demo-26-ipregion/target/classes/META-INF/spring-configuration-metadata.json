@@ -1,0 +1,24 @@
+{
+  "groups": [
+    {
+      "name": "ip2region",
+      "type": "cdu.zch.ip.config.Ip2RegionProperties",
+      "sourceType": "cdu.zch.ip.config.Ip2RegionProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "ip2region.db-file",
+      "type": "java.lang.String",
+      "description": "db数据文件位置 <p> ClassPath目录下 <\/p>",
+      "sourceType": "cdu.zch.ip.config.Ip2RegionProperties"
+    },
+    {
+      "name": "ip2region.enabled",
+      "type": "java.lang.Boolean",
+      "description": "是否开启自动配置",
+      "sourceType": "cdu.zch.ip.config.Ip2RegionProperties"
+    }
+  ],
+  "hints": []
+}

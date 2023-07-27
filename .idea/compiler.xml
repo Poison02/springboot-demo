@@ -11,8 +11,8 @@
         <module name="admin-client" />
         <module name="demo-25-qiniuyun" />
         <module name="demo-24-oos-and-minio" />
+        <module name="demo-26-ipregion" />
         <module name="demo-14-easyexcel" />
-        <module name="spring-boot-demo" />
         <module name="demo-18-swagger" />
         <module name="demo-19-ratelimit" />
         <module name="demo-15-JPA" />

@@ -1,0 +1,4 @@
+# ip2region
+ip2region:
+  enabled: true
+  dbfile: ip2region/ip2region.xdb
