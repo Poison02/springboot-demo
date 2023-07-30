@@ -37,12 +37,9 @@
         <option value="$PROJECT_DIR$/demo-23-captcha/pom.xml" />
         <option value="$PROJECT_DIR$/demo-24-oos-and-minio/pom.xml" />
         <option value="$PROJECT_DIR$/demo-25-qiniuyun/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-27-Dubbo/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-27-Dubbo/dubbo-interface/pom.xml" />
       </list>
-    </option>
-    <option name="ignoredFiles">
-      <set>
-        <option value="$PROJECT_DIR$/demo-18-openapi/pom.xml" />
-      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">

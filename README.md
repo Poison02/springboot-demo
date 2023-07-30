@@ -29,3 +29,4 @@
 - [springboot-oss-and-minio](/demo-25-oos-and-minio) springboot整合阿里云oss和本地部署的minio实现上传文件
 - [springboot-qiniuyun](/demo-25-qiniuyun) springboot整合七牛云对象存储实现上传文件
 - [springboot-ipregion](/demo-26-ipregion) springboot整合ip2region实现显示ip归属地（有bug，待完善）
+- [springboot-Debbo](/demo-27-Dubbo)  springboot整合Dubbo3.2.0 实现简单的服务调用

@@ -26,15 +26,18 @@
         <module name="demo-17-emoji" />
         <module name="demo-20-quartz" />
         <module name="demo-05-logback" />
+        <module name="dubbo-interface" />
         <module name="demo-16-cos" />
         <module name="demo-01-hello" />
         <module name="demo-21-mybatis-generator-page" />
         <module name="demo-11-nettysocketio" />
         <module name="demo-02-properties" />
         <module name="demo-08-thymeleaf" />
+        <module name="dubbo-provider" />
         <module name="demo-10-mail" />
         <module name="admin-server" />
         <module name="demo-07-exception-handler" />
+        <module name="dubbo-consumer" />
       </profile>
     </annotationProcessing>
   </component>
@@ -67,6 +70,7 @@
       <module name="demo-23-captcha" options="-parameters" />
       <module name="demo-24-oos-and-minio" options="-parameters" />
       <module name="demo-25-qiniuyun" options="-parameters" />
+      <module name="demo-27-Dubbo" options="" />
     </option>
   </component>
 </project>

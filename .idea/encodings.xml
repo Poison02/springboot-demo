@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
-    <file url="file://$PROJECT_DIR$/../../../CodeSoftware/Maven/maven-repository/org/springframework/boot/spring-boot-starter-parent/2.7.10/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../../../CodeSoftware/Maven/maven-repository/org/springframework/boot/spring-boot-starter-parent/2.7.11/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../../../CodeSoftware/Maven/maven-repository/org/springframework/boot/spring-boot-starter-parent/2.7.12/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../../../CodeSoftware/Maven/maven-repository/org/springframework/boot/spring-boot-starter-parent/2.7.13/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../../../CodeSoftware/Maven/maven-repository/org/springframework/boot/spring-boot-starter-parent/3.0.6/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../../../CodeSoftware/Maven/maven-repository/org/springframework/boot/spring-boot-starter-parent/3.1.1/src/main/resources" charset="UTF-8" />
+    <file url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.7.10/src/main/resources" charset="UTF-8" />
+    <file url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.7.11/src/main/resources" charset="UTF-8" />
+    <file url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.7.12/src/main/resources" charset="UTF-8" />
+    <file url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.7.13/src/main/resources" charset="UTF-8" />
+    <file url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/3.0.6/src/main/resources" charset="UTF-8" />
+    <file url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/3.1.1/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-01-hello/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-02-properties/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-03-actuator/src/main/java" charset="UTF-8" />
@@ -37,6 +37,14 @@
     <file url="file://$PROJECT_DIR$/demo-25-qiniuyun/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-26-ipregion/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-26-ipregion/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-27-Dubbo/dubbo-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-27-Dubbo/dubbo-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-27-Dubbo/dubbo-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-27-Dubbo/dubbo-interface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-27-Dubbo/dubbo-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-27-Dubbo/dubbo-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-27-Dubbo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-27-Dubbo/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
