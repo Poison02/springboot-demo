@@ -23,6 +23,7 @@
         <module name="demo-09-redis" />
         <module name="demo-22-rbac-security" />
         <module name="demo-03-actuator" />
+        <module name="demo-28-codegen" />
         <module name="demo-17-emoji" />
         <module name="demo-20-quartz" />
         <module name="demo-05-logback" />

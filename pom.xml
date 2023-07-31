@@ -11,6 +11,7 @@
     <modules>
         <module>demo-26-ipregion</module>
         <module>demo-27-Dubbo</module>
+        <module>demo-28-codegen</module>
     </modules>
 
     <properties>

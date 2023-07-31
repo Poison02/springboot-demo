@@ -8,14 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca40f7aa-5599-4690-b687-0cd4b336d7c9" name="Changes" comment="fix: update gitignre">
-      <change afterPath="$PROJECT_DIR$/demo-27-Dubbo/dubbo-consumer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-27-Dubbo/dubbo-interface/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-27-Dubbo/dubbo-provider/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-27-Dubbo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-28-codegen/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
@@ -52,9 +47,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
-        <option value="Enum" />
         <option value="AnnotationType" />
         <option value="HTML File" />
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -105,7 +100,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "D:/笔记/spring-boot-demo/spring-boot-demo",
+    "last_opened_file_path": "D:/笔记/spring-boot-demo/spring-boot-demo/demo-28-codegen/src/main/java/cdu/zch/codegen/entity",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -115,7 +110,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.17730498",
     "settings.editor.selected.configurable": "MavenSettings",
-    "spring.configuration.checksum": "33292aab13faf8aa818f6351e317be00",
+    "spring.configuration.checksum": "f53200da2071d8c5848dbda047016fa9",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -127,11 +122,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-28-codegen\src\main\java\cdu\zch\codegen\entity" />
+      <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-28-codegen\src\main\resources" />
       <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-26-ipregion\src\test\resources" />
       <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-22-rbac-security\src\main\java\cdu\zch\rbac\security\controller" />
       <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-22-rbac-security\src\main\java\cdu\zch\rbac\security\model" />
-      <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-22-rbac-security\src\main\java\cdu\zch\rbac\security\playload" />
-      <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-22-rbac-security\src\main\java\cdu\zch\rbac\security\dao" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\笔记\spring-boot-demo\spring-boot-demo\demo-26-ipregion\src\main\resources\ip2region" />
@@ -144,20 +139,7 @@
       <recent name="cdu.zch.demo16cos.exception" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.Application (2)">
-    <configuration name="AddressUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cdu.zch.test.AddressUtil" />
-      <module name="demo-26-ipregion" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cdu.zch.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Spring Boot.Demo28CodeGenApplication">
     <configuration name="AddressTest.testAddress" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo-26-ipregion" />
       <extension name="coverage">
@@ -169,6 +151,22 @@
       <option name="PACKAGE_NAME" value="cdu.zch.test" />
       <option name="MAIN_CLASS_NAME" value="cdu.zch.test.AddressTest" />
       <option name="METHOD_NAME" value="testAddress" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeGenServiceTest.testCodeGen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-28-codegen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cdu.zch.codegen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cdu.zch.codegen" />
+      <option name="MAIN_CLASS_NAME" value="cdu.zch.codegen.CodeGenServiceTest" />
+      <option name="METHOD_NAME" value="testCodeGen" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -424,13 +422,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Demo28CodeGenApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="demo-28-codegen" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cdu.zch.codegen.Demo28CodeGenApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CodeGenServiceTest.testCodeGen" />
         <item itemvalue="Spring Boot.Application (2)" />
         <item itemvalue="Spring Boot.Application (1)" />
         <item itemvalue="JUnit.AddressTest.testAddress" />
         <item itemvalue="Spring Boot.Application" />
-        <item itemvalue="Application.AddressUtil" />
       </list>
     </recent_temporary>
   </component>
@@ -493,6 +498,7 @@
       <workItem from="1690710130657" duration="933000" />
       <workItem from="1690711078412" duration="120000" />
       <workItem from="1690721590985" duration="2307000" />
+      <workItem from="1690771721017" duration="4118000" />
     </task>
     <task id="LOCAL-00001" summary="fix: 修复spring boot整合mail发送邮件">
       <created>1686014100345</created>

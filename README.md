@@ -30,3 +30,4 @@
 - [springboot-qiniuyun](/demo-25-qiniuyun) springboot整合七牛云对象存储实现上传文件
 - [springboot-ipregion](/demo-26-ipregion) springboot整合ip2region实现显示ip归属地（有bug，待完善）
 - [springboot-Debbo](/demo-27-Dubbo)  springboot整合Dubbo3.2.0 实现简单的服务调用
+- [springboot-codegen](/demo-28-codegen) springboot整合velocity实现简单的模板技术代码生成
