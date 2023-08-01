@@ -5,11 +5,11 @@ server:
 
 spring:
   datasource:
+    type: com.zaxxer.hikari.HikariDataSource
     url: jdbc:mysql://localhost:3306/mybatis?useSSL=false&autoReconnect=true&characterEncoding=utf8&serverTimeZone=GMT%2B8
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
     password: 248613
-    type: com.zaxxer.hikari.HikariDataSource
     hikari:
       #最小空闲连接数
       minimum-idle: 5
@@ -27,19 +27,14 @@ spring:
       max-lifetime: 60000
       # 数据库连接超时时间,默认30秒
       connection-timeout: 30000
-  sql:
-    init:
-      platform: mysql
   jpa:
-    database: mysql
-    show-sql: true
-    hibernate:
-      ddl-auto: validate
     properties:
       hibernate:
+        hbm2ddl:
+          auto: update
         dialect: org.hibernate.dialect.MySQLDialect
         format_sql: true
-    open-in-view: true
+        enable_lazy_load_no_trans: true
 
 logging:
   level:

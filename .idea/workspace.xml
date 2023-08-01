@@ -8,12 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca40f7aa-5599-4690-b687-0cd4b336d7c9" name="Changes" comment="fix: update gitignre">
-      <change afterPath="$PROJECT_DIR$/demo-28-codegen/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-15-JPA/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-15-JPA/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +106,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.17730498",
     "settings.editor.selected.configurable": "MavenSettings",
-    "spring.configuration.checksum": "f53200da2071d8c5848dbda047016fa9",
+    "spring.configuration.checksum": "671581ff9b53d64e6b2d51e07c9c97fc",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -139,7 +135,7 @@
       <recent name="cdu.zch.demo16cos.exception" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.Demo28CodeGenApplication">
+  <component name="RunManager" selected="Spring Boot.Demo15JpaApplication">
     <configuration name="AddressTest.testAddress" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo-26-ipregion" />
       <extension name="coverage">
@@ -499,6 +495,7 @@
       <workItem from="1690711078412" duration="120000" />
       <workItem from="1690721590985" duration="2307000" />
       <workItem from="1690771721017" duration="4118000" />
+      <workItem from="1690879676967" duration="413000" />
     </task>
     <task id="LOCAL-00001" summary="fix: 修复spring boot整合mail发送邮件">
       <created>1686014100345</created>
